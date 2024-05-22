@@ -22,12 +22,8 @@ class LinkedList:
         
 
     def delete_at_begin(self):
-        pass
+        if self.head is None:
+            print("List is empty, nothing to delete")
+        else:
+            self.head = self.head.next
     
-obj = LinkedList()
-obj.insert_node(1)
-obj.insert_node(2)
-obj.insert_node(3)
-obj.insert_node(4)
-obj.insert_node(5)
-obj.display()
