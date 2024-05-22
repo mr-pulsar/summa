@@ -1,4 +1,3 @@
-
 ### HI BUDDY SPPED 1 TeRABIT MEMORY ONE JETABI
 
 vi
@@ -6,4 +5,3 @@ n
 o
 t
 h
-
